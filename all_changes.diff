@@ -1,0 +1,13 @@
+diff --git a/doc/source/user_guide/10min.rst b/doc/source/user_guide/10min.rst
+index 7c98c99fec..01a9ed09b8 100644
+--- a/doc/source/user_guide/10min.rst
++++ b/doc/source/user_guide/10min.rst
+@@ -142,7 +142,7 @@ For ``df2``, the :class:`DataFrame` with multiple dtypes,
+ 
+    df.describe()
+ 
+-Transposing your data:
++Transposing your data will switch the rows and columns of the DataFrame:
+ 
+ .. ipython:: python
+ 
